@@ -11,6 +11,6 @@ Using various libraries such as Pandas, Jinja and WeasyPrint to create PDF repor
 #### Games
 
 - [Rock Scissor Paper](https://github.com/HayatiHamzah/Python_Projects/blob/master/Games/Rock-paper-scissors.ipynb)
-- [Hangman]
-#### Classes
-- [Product Inventory Project]
+- [Hangman](https://github.com/HayatiHamzah/Python_Projects/blob/master/Games/Hangman.ipynb)
+#### Class Projects
+- [Product Inventory Project](https://github.com/HayatiHamzah/Python_Projects/blob/master/class_project/product_inventory.ipynb)
