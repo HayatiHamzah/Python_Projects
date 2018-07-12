@@ -9,7 +9,8 @@ Reference of basic Python code, in context to Data Science. Self-reference for m
 Using various libraries such as Pandas, Jinja and WeasyPrint to create PDF report of sales from a html template.
 ### 3) Practice problems
 #### Games
-- [Rock Scissor Paper] (https://github.com/HayatiHamzah/Python_Projects/blob/master/Games/Rock-paper-scissors.ipynb)
-- [ Hangman]
+
+- [Rock Scissor Paper](https://github.com/HayatiHamzah/Python_Projects/blob/master/Games/Rock-paper-scissors.ipynb)
+- [Hangman]
 #### Classes
 - [Product Inventory Project]
