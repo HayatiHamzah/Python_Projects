@@ -1,4 +1,4 @@
-''' Giving class and function programming a try. First script. This module 
+''' Giving class and function programming a try. First script. The ABC module 
 provides the infrastructure 
 for defining abstract base classes (ABCs) 
 in Python, as outlined in PEP 3119'''
