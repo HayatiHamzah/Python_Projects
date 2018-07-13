@@ -1,4 +1,7 @@
-''' Giving class and function programming a try. First script'''
+''' Giving class and function programming a try. First script. This module 
+provides the infrastructure 
+for defining abstract base classes (ABCs) 
+in Python, as outlined in PEP 3119'''
 from abc import *
 
 class Entity(metaclass=ABCMeta):
